@@ -1,13 +1,12 @@
 <!--
   GitHub Profile README · @as303
   ─────────────────────────────────────────────
-  部署：在 GitHub 新建一个名为 as303 的「公开」仓库，把本 README.md
-  和 assests 文件夹一起上传，README 就会自动显示在 github.com/as303。
-  详见同目录下的《部署指南.md》。
+  部署：仓库名必须与用户名相同（as303）、且为 Public，README.md 放在仓库根目录。
+  访问 https://github.com/as303 即可看到本页。详见《部署指南.md》。
 
   常用自定义位置：
   · 打字机标题 → 修改第 1 个 <img> 里 typing-svg 的 lines 参数
-  · 邮箱       → 把下方 mailto:as303@users.noreply.github.com 换成你的真实邮箱
+  · 邮箱       → 搜索 lixu_huxley@163.com（共 3 处）即可整体替换
   · 右侧图片   → 替换 assests/sidepic.jpg（原图 509x720，竖版）
 
   Design inspired by @zengyincen — thanks for sharing!
@@ -43,8 +42,16 @@
   <h3 align="center">Connect With Me</h3>
 <p align="center">
  
-  <a href="mailto:as303@users.noreply.github.com" target="_blank">
+  <a href="mailto:lixu_huxley@163.com" target="_blank">
     <img align="center" alt="mail logo" height="50" width="50" src="assests/gmailogo.png" />
   </a>
-  <span> as303 </span>
+  <span> <b>lixu_huxley@163.com</b> </span>
 </p> 
+
+<img src="assests/borderseperator.gif">
+<p align="center">
+  📧 <b>Email:</b> <a href="mailto:lixu_huxley@163.com" target="_blank">lixu_huxley@163.com</a>
+</p>
+<p align="center">
+  <a href="mailto:lixu_huxley@163.com" target="_blank"><img src="https://img.shields.io/badge/Email-lixu__huxley%40163.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email lixu_huxley@163.com"></a>
+</p>
